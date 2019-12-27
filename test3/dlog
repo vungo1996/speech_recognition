@@ -1,0 +1,333 @@
+WARNING: no script file global.ded
+WARNING: no script file ../beep-sp1.txt.ded
+Missing Words
+-------------
+#!MLF!#
+*/S001.lab
+*/S002.lab
+*/S003.lab
+*/S004.lab
+*/S005.lab
+*/S006.lab
+*/S007.lab
+*/S008.lab
+*/S009.lab
+*/S010.lab
+*/S011.lab
+*/S012.lab
+*/S013.lab
+*/S014.lab
+*/S015.lab
+*/S016.lab
+*/S017.lab
+*/S018.lab
+*/S019.lab
+*/S020.lab
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ANIMALS
+ANIMALS
+BERLIN
+BERLIN
+BERLIN
+BERLIN
+CHILDREN
+CHILDREN
+CHILDREN
+CHILDREN
+CHILDREN
+CHILDREN
+CHILDREN
+CHILDREN
+CHILDREN
+CHILDREN
+COOL
+DRIVE
+DRIVE
+DRIVE
+DRIVE
+DRIVE
+DRIVE
+EAT
+EAT
+EIGHT
+EXCITED
+FIVE
+FOUR
+FOUR
+FOUR
+FRIENDS
+FRIENDS
+FRIENDS
+FUN
+FUN
+FUN
+GO
+HANG
+HANG
+HANG
+HAPPY
+HAPPY
+HAPPY
+HATE
+HATE
+HAVE
+HAVE
+HAVE
+I
+I
+I
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+LIKE
+LIKE
+LIKE
+LIKE
+LOVE
+MADRID
+MADRID
+MADRID
+MADRID
+MADRID
+MADRID
+MADRID
+MONDAY
+MONDAY
+MONSTERS
+MONSTERS
+MONSTERS
+MONSTERS
+MONSTERS
+MONSTERS
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+OUT
+OUT
+OUT
+OUT
+OUT
+PARENTS
+PEOPLE
+PEOPLE
+PRAGUE
+PRAGUE
+PRAGUE
+PRAGUE
+PRAGUE
+PRAGUE
+SAD
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SERIOUS
+SERIOUS
+SERIOUS
+SERIOUS
+SERIOUS
+SEVEN
+START
+START
+START
+START
+START
+SUNDAY
+THREE
+THREE
+THREE
+THURSDAY
+THURSDAY
+THURSDAY
+THURSDAY
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TRAVEL
+TUESDAY
+TUESDAY
+TWO
+TWO
+TWO
+WE
+WE
+WE
+WE
+WEDNESDAY
+WEDNESDAY
+WEDNESDAY
+WEDNESDAY
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+beep-sp1.txt    235314         50     254380         62
+   dict.test        50         50         62         62
+
+327 words required, 277 missing
+
+New Phone Usage Counts
+---------------------
+  1. ae    :     9
+  2. n     :    20
+  3. ih    :    15
+  4. m     :     5
+  5. ax    :     9
+  6. l     :     9
+  7. z     :     9
+  8. sp    :    62
+  9. b     :     1
+ 10. er    :     3
+ 11. ch    :     1
+ 12. d     :    22
+ 13. r     :    12
+ 14. k     :     3
+ 15. uw    :     5
+ 16. ay    :     8
+ 17. v     :     7
+ 18. eh    :     6
+ 19. t     :    20
+ 20. iy    :     6
+ 21. ey    :    11
+ 22. s     :    13
+ 23. f     :     7
+ 24. ao    :     2
+ 25. ah    :     7
+ 26. g     :     2
+ 27. ow    :     1
+ 28. hh    :     4
+ 29. ng    :     1
+ 30. p     :     6
+ 31. oh    :     2
+ 32. aw    :     1
+ 33. ea    :     1
+ 34. aa    :     2
+ 35. ia    :     2
+ 36. dh    :     2
+ 37. th    :     3
+ 38. y     :     2
+ 39. w     :     4
+
+Dictionary dict.test created

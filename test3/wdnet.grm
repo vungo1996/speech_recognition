@@ -1,0 +1,9 @@
+$weekday = MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY | SATURDAY | SUNDAY;
+$firstsubject = I | WE | PEOPLE | THEY | PARENTS | CHILDREN;
+$firstverb = START | LIKE | HAVE | LOVE | HATE;
+$number = TWO | THREE | FOUR | FIVE | SIX | SEVEN | EIGHT | NINE | TEN;
+$adjective = COOL | HAPPY | EXCITED | SAD | SERIOUS | FUN;
+$secondverb = PLAY | TRAVEL | EAT | STUDY | GO OUT | DRIVE | HANG OUT;
+$secondsubject = FRIENDS | CHILDREN | ANIMALS | MONSTERS;
+$location = BERLIN | MADRID | PRAGUE;
+( SENT-START ( ON $weekday $firstsubject $firstverb TO $secondverb WITH $number $adjective $secondsubject IN $location ) SENT-END )

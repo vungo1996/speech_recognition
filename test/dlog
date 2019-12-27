@@ -1,0 +1,171 @@
+WARNING: no script file global.ded
+WARNING: no script file ../beep-sp1.txt.ded
+Missing Words
+-------------
+#!MLF!#
+*/T001.lab
+*/T002.lab
+*/T003.lab
+*/T004.lab
+*/T005.lab
+*/T006.lab
+*/T007.lab
+*/T008.lab
+*/T009.lab
+*/T010.lab
+*/T011.lab
+*/T012.lab
+*/T013.lab
+*/T014.lab
+*/T015.lab
+*/T016.lab
+*/T017.lab
+*/T018.lab
+*/T019.lab
+*/T020.lab
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ANIMALS
+CHILDREN
+CHILDREN
+FOOD
+FOOD
+FOOD
+FOOD
+FOOD
+FOOD
+HATE
+HATE
+HATE
+I
+I
+I
+I
+I
+KILL
+KILL
+KILL
+LIKE
+LIKE
+LIKE
+LIKE
+LIKE
+LOVE
+LOVE
+LOVE
+LOVE
+LOVE
+PEOPLE
+PEOPLE
+PEOPLE
+PEOPLE
+PEOPLE
+PEOPLE
+PEOPLE
+PEOPLE
+PEOPLE
+PEOPLE
+PEOPLE
+PEOPLE
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+THEY
+THEY
+THEY
+THEY
+WE
+WE
+WE
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+beep-sp1.txt    231941         11     250691         11
+   dict.test        11         11         11         11
+
+141 words required, 130 missing
+
+New Phone Usage Counts
+---------------------
+  1. ae    :     1
+  2. n     :     2
+  3. ih    :     3
+  4. m     :     1
+  5. ax    :     2
+  6. l     :     6
+  7. z     :     1
+  8. sp    :    11
+  9. ch    :     1
+ 10. d     :     2
+ 11. r     :     1
+ 12. f     :     1
+ 13. uw    :     1
+ 14. hh    :     1
+ 15. ey    :     2
+ 16. t     :     1
+ 17. ay    :     2
+ 18. k     :     2
+ 19. ah    :     1
+ 20. v     :     1
+ 21. p     :     2
+ 22. iy    :     2
+ 23. dh    :     1
+ 24. w     :     1
+
+Dictionary dict.test created

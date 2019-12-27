@@ -1,0 +1,7 @@
+$weekday = MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY | SATURDAY | SUNDAY;
+$firstsubject = I | WE | PEOPLE | THEY | PARENTS | CHILDREN;
+$firstverb = START | LIKE | HAVE | LOVE | HATE;
+$secondverb = PLAY | TRAVEL | EAT;
+$secondsubject = FRIENDS | CHILDREN | ANIMALS;
+$location = BERLIN | MADRID | PRAGUE;
+( SENT-START ( ON $weekday $firstsubject $firstverb TO $secondverb WITH $secondsubject IN $location ) SENT-END )

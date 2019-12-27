@@ -1,0 +1,4 @@
+$subject = I | WE | PEOPLE | THEY;
+$verb = KILL | LIKE | HATE | LOVE;
+$object = PEOPLE | CHILDREN | ANIMALS | FOOD;
+( SENT-START ( $subject $verb $object ) SENT-END )

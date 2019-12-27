@@ -1,0 +1,302 @@
+WARNING: no script file global.ded
+WARNING: no script file ../beep-sp1.txt.ded
+Missing Words
+-------------
+#!MLF!#
+*/T001.lab
+*/T002.lab
+*/T003.lab
+*/T004.lab
+*/T005.lab
+*/T006.lab
+*/T007.lab
+*/T008.lab
+*/T009.lab
+*/T010.lab
+*/T011.lab
+*/T012.lab
+*/T013.lab
+*/T014.lab
+*/T015.lab
+*/T016.lab
+*/T017.lab
+*/T018.lab
+*/T019.lab
+*/T020.lab
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ANIMALS
+ANIMALS
+ANIMALS
+ANIMALS
+ANIMALS
+ANIMALS
+BERLIN
+BERLIN
+BERLIN
+CHILDREN
+CHILDREN
+CHILDREN
+CHILDREN
+CHILDREN
+CHILDREN
+CHILDREN
+CHILDREN
+EAT
+EAT
+EAT
+EAT
+EAT
+EAT
+FRIDAY
+FRIENDS
+FRIENDS
+FRIENDS
+FRIENDS
+FRIENDS
+HATE
+HATE
+I
+I
+I
+I
+I
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+LIKE
+LIKE
+LIKE
+LIKE
+LOVE
+LOVE
+LOVE
+LOVE
+MADRID
+MADRID
+MADRID
+MADRID
+MADRID
+MADRID
+MADRID
+MADRID
+MONDAY
+MONDAY
+MONDAY
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+ON
+PARENTS
+PARENTS
+PARENTS
+PARENTS
+PEOPLE
+PEOPLE
+PLAY
+PLAY
+PLAY
+PLAY
+PLAY
+PLAY
+PRAGUE
+PRAGUE
+PRAGUE
+PRAGUE
+PRAGUE
+PRAGUE
+SATURDAY
+SATURDAY
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-END
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+SENT-START
+START
+START
+START
+START
+START
+SUNDAY
+THEY
+THURSDAY
+THURSDAY
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TO
+TRAVEL
+TRAVEL
+TRAVEL
+TRAVEL
+TRAVEL
+TUESDAY
+WE
+WEDNESDAY
+WEDNESDAY
+WEDNESDAY
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+WITH
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+beep-sp1.txt    235314         30     254380         41
+   dict.test        30         30         41         41
+
+281 words required, 251 missing
+
+New Phone Usage Counts
+---------------------
+  1. ae    :     6
+  2. n     :    14
+  3. ih    :    13
+  4. m     :     4
+  5. ax    :     8
+  6. l     :     8
+  7. z     :     8
+  8. sp    :    41
+  9. b     :     1
+ 10. er    :     3
+ 11. ch    :     1
+ 12. d     :    18
+ 13. r     :     8
+ 14. eh    :     4
+ 15. t     :    13
+ 16. iy    :     3
+ 17. f     :     3
+ 18. ay    :     4
+ 19. ey    :    10
+ 20. hh    :     2
+ 21. v     :     4
+ 22. k     :     1
+ 23. ah    :     5
+ 24. oh    :     1
+ 25. p     :     5
+ 26. ea    :     1
+ 27. s     :     6
+ 28. aa    :     2
+ 29. g     :     1
+ 30. dh    :     2
+ 31. th    :     2
+ 32. uw    :     3
+ 33. y     :     2
+ 34. w     :     4
+
+Dictionary dict.test created
